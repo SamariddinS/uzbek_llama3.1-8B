@@ -1,6 +1,4 @@
 #!/bin/bash
-## 运行脚本前请仔细阅读wiki(https://github.com/ymcui/Chinese-LLaMA-Alpaca-3/wiki/sft_scripts_zh)
-## Read the wiki(https://github.com/ymcui/Chinese-LLaMA-Alpaca-3/wiki/sft_scripts_en) carefully before running the script
 lr=1e-4
 lora_rank=64
 lora_alpha=128
@@ -8,15 +6,15 @@ lora_trainable="q_proj,v_proj,k_proj,o_proj,gate_proj,down_proj,up_proj"
 modules_to_save="embed_tokens,lm_head"
 lora_dropout=0.05
 
-pretrained_model=/mnt/d/models/llama3.1-8B
+pretrained_model=meta-llama/Meta-Llama-3.1-8B
 tokenizer_name_or_path=${pretrained_model}
-dataset_dir=../../data/
+dataset_dir=../../data/train/
 per_device_train_batch_size=1
 per_device_eval_batch_size=1
 gradient_accumulation_steps=8
-max_seq_length=1024
-output_dir=/mnt/d/models/uz/uzbek_llama3.1-8B
-validation_file=./val.json
+max_seq_length=2048
+output_dir=outputs/
+validation_file=../../data/val/val.json
 
 torchrun --nnodes 1 --nproc_per_node 1 run_clm_sft_with_peft.py \
     --model_name_or_path ${pretrained_model} \
