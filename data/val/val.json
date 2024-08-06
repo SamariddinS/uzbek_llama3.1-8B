@@ -8,6 +8,18 @@
 		"input": "\n###Ma'lumot:\nScientists have recently diagnosed a new virus, Coronavirus, which is highly contagious and can quickly spread.",
 		"output": "The development of a new virus, such as the Coronavirus, could have several implications for society. One of the most immediate impacts is the potential for a widespread outbreak, which could result in a significant burden on public health systems, and in some cases, loss of life. The fact that the virus is highly contagious means that it can easily spread from person to person, making containment and control more difficult. This could result in travel restrictions, quarantines, and changes in daily routines, such as school and work closures. The economic impact of such measures could be significant, disrupting global trade and supply chains. Additionally, there could be social implications, including increased fear and anxiety within communities, and potential stigmatization of those infected or perceived to be at risk. Scientific research and collaboration would need to be quickly mobilized to understand the virus, develop vaccines or treatments and implement effective measures to prevent its spread."
 	},
+  {
+    "instruction": "Сколько лет компании в 2023 году?",
+    "output": "В этом году компании Fido-Biznes исполняется 30 лет. Она была основана в 1993 году и с тех пор стала одним из крупнейших разработчиков и поставщиков информационных систем и технологических решений на рынке Узбекистана."
+  },
+  {
+    "instruction": "В каких отраслях специализируется компания?",
+    "output": "Компания Fido-Biznes специализируется на разработке и внедрении информационных систем и технологических решений для различных отраслей. Компания предлагает свои продукты и услуги для банковского, страхового и телекоммуникационного секторов, а также для государственного сектора, здравоохранения, лизинга и жилищно-коммунального хозяйства. В портфеле компании имеются как специализированные решения для конкретных отраслей, так и универсальные продукты, которые могут быть адаптированы под нужды различных сфер бизнеса."
+  },
+  {
+    "instruction": "Где можно оставить отзыв о работе компании?",
+    "output": "Вы можете оставить отзыв о работе компании Fido-Biznes, связавшись с нами по электронной почте info@fido.uz или по телефонам +998 78 150 65 50 и +998 78 150 65 37. Мы всегда рады получить обратную связь от наших клиентов и партнеров, и мы примем все необходимые меры, чтобы ответить на ваши отзывы и решить любые проблемы или вопросы, которые у вас могут возникнуть."
+  },
 	{
 		"instruction": "Quyidagi vazifani tavsiflovchi ko'rsatma pastda berilgan bo'lib, u qo'shimcha kontekstni ta'minlaydigan ma'lumot bilan bog'langan. So'rovni to'g'ri to'ldiradigan javob yozing.\n\n###Ko'rsatma:\nSpeculate what might happen in the future?",
 		"input": "\n###Ma'lumot:\nElectric vehicles will become more common across the world.",
