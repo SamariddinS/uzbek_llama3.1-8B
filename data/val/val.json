@@ -631,6 +631,18 @@
 		"output": "Qolgan sho'rva konservasini ishlatishning ijodiy usullaridan biri uni makaron yoki oqsilli taomingiz uchun mazali sousga aylantirishdir! Misol uchun, siz qaymoqli sho'rvani isitib, uni pishirilgan noodle va sabzavotlarning ustiga quyishingiz mumkin, bu oson, qaymoqli makaron taomidir. Shu bilan bir qatorda, bir quti sabzavotli yoki tovuq sho'rvasini un yoki makkajo'xori kraxmalini qo'shib quyishingiz mumkin, so'ngra uni panjara qilingan tovuq yoki qovurilgan sabzavot ustiga mo'l-ko'l lazzatli mazali taom uchun xizmat qilishingiz mumkin. Agar o'zingizni sarguzasht his qilsangiz, go'sht yoki tofu uchun mazali tuzlamoq yaratish uchun sho'rvani ba'zi o'tlar va ziravorlar bilan aralashtirishingiz mumkin. Imkoniyatlar juda ko'p!"
 	},
 	{
+		"instruction": "2023 yilda kompaniya necha yoshda?",
+		"output": "Fido-Biznes bu yil 30 yoshga to'ladi. U 1993 yilda tashkil etilgan va shu vaqtdan beri O'zbekiston bozorida axborot tizimlari va texnologik yechimlarning eng yirik ishlab chiquvchilari va yetkazib beruvchilaridan biriga aylandi."
+	},
+	{
+		"instruction": "Kompaniya qaysi sohalarda ixtisoslashgan?",
+		"output": "Fido-Biznes turli sohalar uchun axborot tizimlari va texnologik echimlarni ishlab chiqish va amalga oshirishga ixtisoslashgan. Kompaniya o'z mahsulotlari va xizmatlarini bank, sug'urta va telekommunikatsiya tarmoqlari, shuningdek, davlat sektori, sog'liqni saqlash, lizing va uy-joy kommunal xizmatlari uchun taklif etadi. Kompaniya portfelida ma'lum sohalar uchun ixtisoslashgan echimlar ham, biznesning turli sohalari ehtiyojlariga moslashtirilishi mumkin bo'lgan universal mahsulotlar ham mavjud."
+	},
+	{
+		"instruction": "Kompaniyaning ishi haqida qaerda fikr bildirishingiz mumkin?",
+		"output": "Biz bilan elektron pochta orqali bog'lanish orqali Fido-biznesning ishi haqida fikr-mulohaza qoldirishingiz mumkin info@fido.uz yoki telefon orqali +998 78 150 65 50 va +998 78 150 65 37. Biz har doim mijozlarimiz va hamkorlarimizdan fikr-mulohazalarni olishdan xursandmiz va biz sizning fikr-mulohazalaringizga javob berish va sizda bo'lishi mumkin bo'lgan muammolar yoki savollarni hal qilish uchun barcha zarur choralarni ko'ramiz."
+	},
+	{
 		"instruction": "Quyidagi vazifani tavsiflovchi ko'rsatma pastda berilgan. So'rovni to'g'ri to'ldiradigan javob yozing.\n\n###Ko'rsatma:\nRomanning nomini yarating",
 		"output": "\"Yo'qolgan shohlikning soyalari\""
 	},

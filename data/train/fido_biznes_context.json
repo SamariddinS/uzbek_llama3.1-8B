@@ -8,18 +8,6 @@
     "output": "FIDO-BIZNES kompaniyasi 1993 yilda tashkil etilgan."
   },
   {
-    "instruction": "2023 yilda kompaniya necha yoshda?",
-    "output": "Fido-Biznes bu yil 30 yoshga to'ladi. U 1993 yilda tashkil etilgan va shu vaqtdan beri O'zbekiston bozorida axborot tizimlari va texnologik yechimlarning eng yirik ishlab chiquvchilari va yetkazib beruvchilaridan biriga aylandi."
-  },
-  {
-    "instruction": "Kompaniya qaysi sohalarda ixtisoslashgan?",
-    "output": "Fido-Biznes turli sohalar uchun axborot tizimlari va texnologik echimlarni ishlab chiqish va amalga oshirishga ixtisoslashgan. Kompaniya o'z mahsulotlari va xizmatlarini bank, sug'urta va telekommunikatsiya tarmoqlari, shuningdek, davlat sektori, sog'liqni saqlash, lizing va uy-joy kommunal xizmatlari uchun taklif etadi. Kompaniya portfelida ma'lum sohalar uchun ixtisoslashgan echimlar ham, biznesning turli sohalari ehtiyojlariga moslashtirilishi mumkin bo'lgan universal mahsulotlar ham mavjud."
-  },
-  {
-    "instruction": "Kompaniyaning ishi haqida qaerda fikr bildirishingiz mumkin?",
-    "output": "Biz bilan elektron pochta orqali bog'lanish orqali Fido-biznesning ishi haqida fikr-mulohaza qoldirishingiz mumkin info@fido.uz yoki telefon orqali +998 78 150 65 50 va +998 78 150 65 37. Biz har doim mijozlarimiz va hamkorlarimizdan fikr-mulohazalarni olishdan xursandmiz va biz sizning fikr-mulohazalaringizga javob berish va sizda bo'lishi mumkin bo'lgan muammolar yoki savollarni hal qilish uchun barcha zarur choralarni ko'ramiz."
-  },
-  {
     "instruction": "Kompaniya qanday qadriyatlarni e'lon qiladi?",
     "output": "Fido-Biznes kompaniyasi quyidagi qiymatlarni e'lon qiladi:\n\n1. Mas'uliyat\n2. Ijodkorlik\n3. Ishtirok etish\n.Jamoa ruhi\n5. O'zaro hurmat\n6. Sadoqat\n\nUshbu qadriyatlar kompaniya madaniyatining markazida bo'lib, uning faoliyatini muvaffaqiyatga erishish va mijozlar ehtiyojini qondirishga yo'naltiradi."
   },
